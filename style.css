@@ -1,0 +1,67 @@
+html{
+    background-color: black;
+}
+h1{ 
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font: italic;
+    text-align: center;
+}
+#mixgames{
+    margin-right: 10px;
+    width: 1500px;
+    height: 1000px;
+   
+}
+#Minecraft{
+    width: 650px;
+    height: 500px;
+    margin-left: 415px;
+    border: whitesmoke solid 20px;
+}
+p{ 
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    color: white;
+}
+#minecarft{
+    color: green;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
+#watchdogs{
+    width: 650px;
+    height: 500px;
+    margin-left: 415px;
+    border: whitesmoke solid 20px;
+}
+#Watchdogs{
+    color: red;
+    font-family: 'Playfair Display', serif;
+}
+.game{
+     text-align: center
+     ;
+}
+#need{
+    width: 650px;
+    height: 500px;
+    margin-left: 415px;
+    border: whitesmoke solid 20px;
+}
+#speed{
+    color: blue;
+    font-family: 'Playfair Display', serif;
+}
+#Cyber{
+    width: 650px;
+    height: 500px;
+    margin-left: 415px;
+    border: whitesmoke solid 20px;
+}
+#punk{
+    color: yellow;
+    font-family: 'Playfair Display', serif;
+}
+
